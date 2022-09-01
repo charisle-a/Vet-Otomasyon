@@ -1,0 +1,52 @@
+﻿<Window x:Class="VetOtomasyon.WPF.Login.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:VetOtomasyon.WPF.Login"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="450" Width="800">
+    <Grid Margin="0,0,0,-31">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="365*"/>
+            <ColumnDefinition Width="31*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0.3,1" EndPoint="0.8,1">
+                <GradientStop Color="#56ffff" Offset="1" />
+                <GradientStop Color="#ff5656" Offset="0" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border Height="390" VerticalAlignment="Top" CornerRadius="0 0 180 0" Background="#100E17" Grid.ColumnSpan="2" >
+        </Border>
+        <StackPanel Orientation="Horizontal" Grid.ColumnSpan="2">
+            <StackPanel Width="350">
+                <Image Source="/Images/clinic.png" Width="300" Height="300" VerticalAlignment="Top" Margin="30" Stretch="Fill"/>
+
+            </StackPanel>
+            <StackPanel Width="400">
+                <StackPanel Margin="20 40">
+                    <TextBlock Text="Veteriner Randevu Sistemi" Margin="20" Foreground="White" TextAlignment="Center" FontSize="23" FontFamily="Great Vibes"></TextBlock>
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <materialDesign:PackIcon Kind="User" Width="25" Height="25" Foreground="White"/>
+                        <TextBox x:Name="txtUsername" Margin="10 0" materialDesign:HintAssist.Hint="E-mail" Foreground="White" Width="250" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <materialDesign:PackIcon Kind="Lock" Width="25" Height="25" Foreground="White"/>
+                        <TextBox x:Name="txtPassword" Margin="10 0" materialDesign:HintAssist.Hint="********" Foreground="White" Width="250" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448" />
+                    </StackPanel>
+                    <StackPanel Margin="10" HorizontalAlignment="Center">
+                        <Button Width="100" Height="40"  Content="Giriş"
+                         materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#D94448"
+                         Background="#D94448" Foreground="White" x:Name="btnLogin" Click="btnLogin_Click">
+                        </Button>
+
+                    </StackPanel>
+
+                </StackPanel>
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

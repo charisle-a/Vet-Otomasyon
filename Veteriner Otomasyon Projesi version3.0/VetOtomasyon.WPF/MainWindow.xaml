@@ -1,0 +1,63 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VetOtomasyon.WPF"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="VetOtomasyon.WPF.MainWindow"
+        mc:Ignorable="d"
+        Title="Anasayfa" Height="455.818" Width="800">
+    <Grid Margin="0,0,2,-31">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="119*" />
+            <ColumnDefinition Width="79*"/>
+            <ColumnDefinition Width="0*" />
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0.3,1" EndPoint="0.8,1">
+                <GradientStop Color="#56ffff" Offset="1" />
+                <GradientStop Color="#ff5656" Offset="0" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border Height="390" VerticalAlignment="Top" CornerRadius="0 0 180 0" Background="#100E17" Grid.ColumnSpan="2" >
+            <Button Height="Auto"  Content="Randevu Oluştur"
+                materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#ff5656"
+                Background="#ff5656" Foreground="#100E17" ToolTip="Login" x:Name="btnRandevu" 
+                Click="btnRandevu_Click" Margin="32,26,597,324"/>
+        </Border>
+        <DataGrid Name="datagridview1" HorizontalAlignment="Left" Height="280" Margin="223,21,0,0" VerticalAlignment="Top" Width="524" Grid.ColumnSpan="2"/>
+        <Button Height="Auto" Content="Yeni Kayıt"
+                materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#ff5656"
+                Background="#ff5656" Foreground="#100E17" ToolTip="Login" x:Name="btnYeni"
+                Click="btnYeni_Click" Margin="31,91,281.909,318" />
+        <Button Height="Auto" Content="Ayarlar"
+                materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#ff5656"
+                Background="#ff5656" Foreground="#100E17" ToolTip="Login" x:Name="btnAyar"
+                Click="btnAyar_Click" Margin="31,331,281.909,78" />
+        <Button Height="Auto" Content="Randevu Kabul"
+            materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#56ffff"
+            Background="#56ffff" Foreground="#100E17" ToolTip="Login" x:Name="btnRandevuKabul"
+            Click="btnRandevuKabul_Click" Margin="284,331,57.909,78" />
+        <Button Height="Auto" Content="Randevu İptal"
+            materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#56ffff" Foreground="#100E17" ToolTip="Login" x:Name="btnRandevuIptall"
+            Click="btnRandevuIptal" Margin="441,331,217,78" Grid.ColumnSpan="2" Background="#FF56FFFF" />
+        <Button Height="Auto" Content="Yenile"
+            materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#56ffff" Foreground="#ff5656" ToolTip="Login" x:Name="btnYenile"
+            Click="btnYenile_click" Margin="114,331,123,78" Grid.Column="1" >
+            <Button.Background>
+                <ImageBrush ImageSource="/Images/refresh-2-24.png" />
+
+
+            </Button.Background>
+        </Button>
+        <Button Height="Auto" Content="Randevular"
+            materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#ff5656"
+            Background="#ff5656" Foreground="#100E17" ToolTip="Login" x:Name="btnRandevular"
+            Click="btnRandevular_Click" Margin="31,152,281.909,257" />
+        <Button Height="Auto" Content="Kayıtlar"
+            materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#ff5656"
+            Background="#ff5656" Foreground="#100E17" ToolTip="Login" x:Name="btnKayıtlar"
+            Click="btnKayıtlar_Click" Margin="31,210,281.909,199" />
+
+    </Grid>
+</Window>

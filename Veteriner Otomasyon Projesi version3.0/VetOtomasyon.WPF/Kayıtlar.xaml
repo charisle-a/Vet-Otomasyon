@@ -1,0 +1,43 @@
+﻿<Window x:Class="VetOtomasyon.WPF.Kayıtlar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:VetOtomasyon.WPF"
+        mc:Ignorable="d"
+        Title="Müşteri" Height="455" Width="800">
+    <Grid Margin="0,0,0,-31">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="0*" />
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0.3,1" EndPoint="0.8,1">
+                <GradientStop Color="#56ffff" Offset="1" />
+                <GradientStop Color="#ff5656" Offset="0" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border Height="390" VerticalAlignment="Top" CornerRadius="0 0 180 0" Background="#100E17">
+
+        </Border>
+        <TextBox x:Name="txtTc_Arama" Margin="49,46,594,379" materialDesign:HintAssist.Hint="Müşteri TC Kimlik Num" Foreground="White" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448" />
+        <TextBox x:Name="txtTc" IsReadOnly="True" HorizontalAlignment="Left" VerticalAlignment="Top" Width="250" Margin="49,98,0,0" materialDesign:HintAssist.Hint="TC Kimlik Num" Foreground="#FFD94448" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448"  />
+
+        <TextBox x:Name="txtsoyad" Margin="49,213,493,212" materialDesign:HintAssist.Hint="Soyad" Foreground="White" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448" />
+        <Button Height="Auto" Content="Düzenle"
+            materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#ff5656"
+            Background="#ff5656" Foreground="#100E17" ToolTip="Login" x:Name="btn"
+            Click="btnDuzenle_click" Margin="49,320,634,97" />
+        <TextBox x:Name="txtad" HorizontalAlignment="Left" VerticalAlignment="Top" Width="250" Margin="49,158,0,0" materialDesign:HintAssist.Hint="Ad" Foreground="White" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448"  />
+        <TextBox x:Name="txtTelno" Margin="49,269,493,156" materialDesign:HintAssist.Hint="Telefon Numarası" Foreground="White" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448" />
+        <Button Height="Auto" Content="Sil"
+            materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#ff5656"
+            Background="#ff5656" Foreground="#100E17" ToolTip="Login" x:Name="btn_Copy"
+            Click="btnSil_Click" Margin="190,320,493,97" />
+        <Button Height="Auto" Content="Ara"
+            materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#ff5656"
+            Background="#ff5656" Foreground="#100E17" ToolTip="Login" x:Name="btn_Copy1"
+            Click="btnAra_Click" Margin="219,38,493,379" />
+    </Grid>
+</Window>

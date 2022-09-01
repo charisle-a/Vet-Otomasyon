@@ -1,0 +1,34 @@
+﻿<Window x:Class="VetOtomasyon.WPF.KayitOlusturma"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:VetOtomasyon.WPF"
+        mc:Ignorable="d"
+        Title="KayitOlusturma" Height="460" Width="800">
+    <Grid Margin="0,0,0,-31">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="0*" />
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0.3,1" EndPoint="0.8,1">
+                <GradientStop Color="#56ffff" Offset="1" />
+                <GradientStop Color="#ff5656" Offset="0" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border Height="390" VerticalAlignment="Top" CornerRadius="0 0 180 0" Background="#100E17">
+
+        </Border>
+        <TextBox x:Name="txttc" Margin="49,46,493,379" materialDesign:HintAssist.Hint="TC Kimlik Num" Foreground="White" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448" />
+        <TextBox x:Name="txtad" HorizontalAlignment="Left" VerticalAlignment="Top" Width="250" Margin="49,98,0,0" materialDesign:HintAssist.Hint="Ad" Foreground="White" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448"  />
+        
+        <TextBox x:Name="txttelno" Margin="49,213,493,212" materialDesign:HintAssist.Hint="Telefon Numarası" Foreground="White" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448" />
+        <Button Height="Auto" Content="Kaydet"
+            materialDesign:ButtonAssist.CornerRadius="1" BorderThickness="2" BorderBrush="#ff5656"
+            Background="#ff5656" Foreground="#100E17" ToolTip="Login" x:Name="btn"
+            Click="btnKaydetClick" Margin="49,277,493,140" />
+        <TextBox x:Name="txtSoyad" HorizontalAlignment="Left" VerticalAlignment="Top" Width="250" Margin="49,158,0,0" materialDesign:HintAssist.Hint="Soyad" Foreground="White" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448"  />
+    </Grid>
+</Window>

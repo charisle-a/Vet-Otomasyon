@@ -1,0 +1,150 @@
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\VetOtomasyon.WPF.exe.config
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\VetOtomasyon.WPF.exe
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\VetOtomasyon.WPF.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\DatabaseAccessLayer.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\EntityFramework.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\EntityLayer.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\DatabaseAccessLayer.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\DatabaseAccessLayer.dll.config
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\EntityLayer.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\EntityFramework.xml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.AssemblyReference.cache
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\App.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF_MarkupCompile.cache
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF_MarkupCompile.lref
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\MainWindow.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.g.resources
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.Properties.Resources.resources
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.GenerateResource.cache
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.CoreCompileInputs.cache
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.CopyComplete
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.exe
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\EntityLayer.dll.config
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\Vetdb.mdf
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi\VetOtomasyon.WPF\bin\Debug\Vetdb_log.ldf
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.AssemblyReference.cache
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\App.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF_MarkupCompile.cache
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF_MarkupCompile.lref
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\Vetdb.mdf
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\Vetdb_log.ldf
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\VetOtomasyon.WPF.exe.config
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\VetOtomasyon.WPF.exe
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\VetOtomasyon.WPF.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\DatabaseAccessLayer.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\EntityFramework.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\EntityLayer.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\DatabaseAccessLayer.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\DatabaseAccessLayer.dll.config
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\EntityLayer.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\EntityLayer.dll.config
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\EntityFramework.xml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\Login\LoginWindow.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\App.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\Login\LoginWindow.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\MainWindow.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.g.resources
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.Properties.Resources.resources
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.GenerateResource.cache
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.CoreCompileInputs.cache
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.CopyComplete
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.exe
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version0.1\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.pdb
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\Vetdb.mdf
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\Vetdb_log.ldf
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\VetOtomasyon.WPF.exe.config
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\VetOtomasyon.WPF.exe
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\VetOtomasyon.WPF.pdb
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\DatabaseAccessLayer.dll
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\EntityFramework.dll
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\EntityLayer.dll
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\DatabaseAccessLayer.pdb
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\DatabaseAccessLayer.dll.config
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\EntityLayer.pdb
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\EntityLayer.dll.config
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\EntityFramework.xml
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csprojAssemblyReference.cache
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\Login\LoginWindow.g.cs
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\App.g.cs
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF_MarkupCompile.cache
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF_MarkupCompile.lref
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\App.baml
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\Login\LoginWindow.baml
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\MainWindow.baml
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.g.resources
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.Properties.Resources.resources
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.GenerateResource.cache
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.CopyComplete
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.exe
+C:\Users\merve\Desktop\Veteriner Otomasyon Projesi version2.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.AssemblyReference.cache
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\Ayarlar.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\DoktorAyarlar.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\KayitOlusturma.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\KullaniciAyarlar.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\Login\LoginWindow.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\Randevular.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\RandevuOlusturma.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\App.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF_MarkupCompile.cache
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF_MarkupCompile.lref
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.exe
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\Vetdb.mdf
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\Vetdb_log.ldf
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\VetOtomasyon.WPF.exe.config
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\VetOtomasyon.WPF.exe
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\VetOtomasyon.WPF.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\DatabaseAccessLayer.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\EntityFramework.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\EntityLayer.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\DatabaseAccessLayer.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\DatabaseAccessLayer.dll.config
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\EntityLayer.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\EntityLayer.dll.config
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\EntityFramework.xml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\App.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\Ayarlar.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\DoktorAyarlar.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\KayitOlusturma.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\KullaniciAyarlar.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\Login\LoginWindow.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\MainWindow.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\Randevular.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\RandevuOlusturma.baml
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.g.resources
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.Properties.Resources.resources
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.GenerateResource.cache
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.CoreCompileInputs.cache
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\VetOtomasyon.WPF.csproj.CopyComplete
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\Kayıtlar.g.cs
+C:\Users\kitsuneem\Desktop\Veteriner Otomasyon Projesi version3.0\VetOtomasyon.WPF\obj\Debug\Kayıtlar.baml
